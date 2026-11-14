@@ -1,5 +1,9 @@
 # Hallway Weather Card
 
+![Hallway Weather Card preview](docs/images/preview.png)
+
+*Rendered from the card code with example data (no real Home Assistant). Radar map © RainViewer / Esri.*
+
 An animated weather card for Home Assistant, made for a hallway wall tablet: animated weather icon and
 sky with weather effects, temperature, feels-like temperature, wind, an hourly rain/temperature chart,
 "take an umbrella?" / "wear a jacket?" hints, an optional rain radar (DWD or RainViewer) and optional
